@@ -151,3 +151,4 @@ function component(width, height, color, x, y, type) {
 	    myGamePiece.newPos();    
 	    myGamePiece.update();
 }
+
